@@ -1,2 +1,2 @@
 # datasciencecoursera
-CHEN's data science's project_sep_2015
+CHEN's data science's project_Jan_2016
